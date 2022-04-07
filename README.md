@@ -1,57 +1,15 @@
-# Project Name
+# Azure Container Apps Albums 
 
-(short, 1-3 sentenced, description of the project)
+This is the companion repository for the [Azure Container Apps code-to-cloud quickstart]() and provides additional links to repositories for the subsequent tutorial path. 
 
-## Features
+## Quickstart: Album API
 
-This project framework provides the following features:
+The backend Album API used is available in multiple lanugages. Select your language preference below to get started with the quickstart: 
 
-* Feature 1
-* Feature 2
-* ...
+| [C#](https://github.com/azure-samples/containerapps-albumapi-csharp) | [Go](https://github.com/azure-samples/containerapps-albumapi-go) | [JavaScript](https://github.com/azure-samples/containerapps-albumapi-node) | [Python](https://github.com/azure-samples/containerapps-albumapi-python) |
+| ---  | --- | --- | --- |
 
-## Getting Started
+## Extended Tutorial Path
 
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [repository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+- [Album Frontend](https://github.com/azure-samples/containerapps-albumfrontend)
+- [Dapr-enabled Album App solution](https://github.com/azure-samples/containerapps-dapralbums)
