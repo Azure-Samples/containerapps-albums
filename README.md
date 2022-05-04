@@ -6,7 +6,7 @@ This is the companion repository for the [Azure Container Apps code-to-cloud qui
 
 The backend Album API is available in multiple languages. Select your language preference below to get started: 
 
-| [C#](https://github.com/azure-samples/containerapps-albumapi-csharp) | [Go](https://github.com/azure-samples/containerapps-albumapi-go) | [JavaScript](https://github.com/azure-samples/containerapps-albumapi-node) | [Python](https://github.com/azure-samples/containerapps-albumapi-python) |
+| [C#](https://github.com/azure-samples/containerapps-albumapi-csharp) | [Go](https://github.com/azure-samples/containerapps-albumapi-go) | [JavaScript](https://github.com/azure-samples/containerapps-albumapi-javascript) | [Python](https://github.com/azure-samples/containerapps-albumapi-python) |
 | ---  | --- | --- | --- |
 
 ## Extended Tutorial Path
