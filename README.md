@@ -11,5 +11,5 @@ The backend Album API is available in multiple languages. Select your language p
 
 ## Extended Tutorial Path
 
-- [Album Frontend](https://github.com/azure-samples/containerapps-albumfrontend)
+- [Album Viewer UI](https://github.com/azure-samples/containerapps-albumui)
 - [Dapr-enabled Album App solution](https://github.com/azure-samples/containerapps-dapralbums)
