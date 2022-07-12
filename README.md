@@ -1,6 +1,6 @@
 # Azure Container Apps Albums 
 
-This is the companion repository for the [Azure Container Apps code-to-cloud quickstart]() and provides additional links to repositories for the subsequent tutorial path. 
+This is the companion repository for the [Azure Container Apps code-to-cloud quickstart](https://docs.microsoft.com/en-us/azure/container-apps/quickstart-code-to-cloud?tabs=bash%2Ccsharp&pivots=acr-remote) and provides additional links to repositories for the subsequent tutorial path. 
 
 ## Quickstart: Album API
 
